@@ -22,7 +22,7 @@ This repository contains two assignments as part of the Continuous Internal Asse
 ### CIA-1: News Value Maximizer using K-arm Bandit
 - **Objective**: Develop a K-arm bandit solution to maximize views on selected articles, with a focus on politically and commercially affiliated media.
 - **Implementation**: The notebook implements a K-arm bandit approach with an emphasis on exploration-exploitation balance, where each article click represents a reward.
-- **Key Components**: Arm selection based on reward maximization to enhance visibility for high-view articles.
+
 
 ### CIA-2: Grid Navigation using MDP
 - **Objective**: Set up a grid environment with obstacles, allowing the RL agent to optimize navigation from a start to a goal position.
